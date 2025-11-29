@@ -1,0 +1,29 @@
+# Core Python libraries
+numpy
+pandas
+matplotlib
+scipy
+tqdm
+Pillow
+ipywidgets
+pathlib  # Only needed for Python <3.4
+importlib-metadata  # Only for Python <3.8
+logging
+
+# Transformers and datasets
+transformers
+datasets
+evaluate
+
+# Scikit-learn (metrics, train/test split, etc.)
+scikit-learn
+
+# Torch (Deep Learning)
+torch
+
+# CV-related
+opencv-python
+
+# Your custom/local modules (make sure they're in your PYTHONPATH or install as local packages)
+# auxiliary_utils.py
+# DET.py

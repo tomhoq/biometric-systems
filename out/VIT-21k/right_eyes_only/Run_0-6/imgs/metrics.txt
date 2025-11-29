@@ -1,0 +1,8 @@
+Classification Metrics
+Accuracy     : 0.870
+Precision     : 0.822
+Recall        : 0.912 (Sensitivity)
+Specificity   : 0.834
+F1 Score      : 0.865
+AUC      : 0.95
+EER:          : 0.123
