@@ -37,8 +37,3 @@ NOTE:
 All the datasets / processed datasets were emptied as they simply occupied too much space in the zip. This means some part of the notebooks wont run.
 Also all the models inside each run had to be deleted due to the zip becoming too big
 
-If necessary I can try to 
-send them some other way.
-
-Let me know
-s243023@dtu.dk
